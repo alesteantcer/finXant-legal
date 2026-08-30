@@ -1,1 +1,0 @@
-# finXant-legal

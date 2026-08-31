@@ -1,6 +1,6 @@
- Privacy Policy (English)
+__Privacy Policy (English)__
 
-Privacy Policy for FinXant Last updated: August 2026
+*__Privacy Policy for FinXant Last updated: August 2026__*
 
 At FinXant, your privacy is our top priority. This application is designed to process data strictly locally on your device.
 * File Processing: All .htm files, SEC (EDGAR) packages, financial statement extractions, and exported Excel (.xlsx) sheets are processed 100% locally on your device. No financial files or document data are uploaded, transmitted, or stored on external servers.
@@ -8,9 +8,9 @@ At FinXant, your privacy is our top priority. This application is designed to pr
 * Subscriptions & Purchases: All Premium subscription purchases are handled securely by Apple via StoreKit / App Store. FinXant does not collect or have access to your payment method, credit card details, or billing information.
 * Contact: If you have any questions regarding this privacy policy, please reach out to: alesteantcer@gmail.com.
 
-Política de Privacidad (Español)
+__Política de Privacidad (Español)__
 
-Política de Privacidad de FinXant Última actualización: Agosto de 2026
+*__Política de Privacidad de FinXant Última actualización: Agosto de 2026__*
 
 En FinXant, la privacidad de los usuarios es la máxima prioridad. Esta aplicación está diseñada para procesar información de manera estrictamente local en tu dispositivo.
 * Procesamiento de Archivos: Todos los archivos .htm, paquetes de la SEC (EDGAR), extracción de estados financieros y la generación de reportes en formato Excel (.xlsx) se ejecutan 100% de forma local en tu dispositivo. Ningún documento o estado financiero procesado es subido, transmitido o almacenado en servidores externos.

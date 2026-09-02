@@ -1,4 +1,4 @@
-# Legal & Privacy
+## Legal & Privacy
 
 ## Privacy Policy (English)
 
